@@ -29,6 +29,8 @@ Aqui tem um apaixonado por Tecnologia, Games, Música, e Estudar 📚.
     <h1>Contatos</h1>
     <p>Você pode entrar em contato via email ou twitter. Prometo tentar responder o mais breve possível! :smile: <br>
      <a href="https://twitter.com/Frajoola_exe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
+       <a href="adrielt008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+       
       
   </div>
   <div align="center"><h1>Obrigado pela visita! bye bye :wave:</h1>  
