@@ -16,6 +16,7 @@
 ```javascript
 const adriel = {
   formação: "Análise e Desenvolvimento de Sistemas - UNIASSELVI",
+  Pós graduação: "Desenvolvimento FullStack - PUC MINAS",
   trabalho: "Suporte técnico para sistemas de automação comercial",
   foco: ["Frontend", "Web Development", "Full Stack"],
   hobbies: ["Games", "Música", "Estudar novas tecnologias"]
